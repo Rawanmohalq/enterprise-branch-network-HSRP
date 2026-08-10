@@ -12,7 +12,7 @@ This project builds on the previous enterprise branch network projects and intro
 
 ## Network Topology
 
-![Enterprise Network HSRP Topology](Enterprise-Network-HSRP-Topology.jpg)
+![Enterprise Network HSRP Topology](Enterprise-Network-HSRP-Topology.jpeg)
 
 The network includes:
 
